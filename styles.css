@@ -7,7 +7,10 @@ a {
   color: #6b0f1a;
   font-family: "Lucida Console", "Courier New", monospace;
   border-style: solid;
-  background-color: rgb(206, 206, 206);
+  background-color: #dce0d9;
+}
+a.highlight:hover {
+  color: #808f85;
 }
 p {
   color: #595959;
@@ -16,4 +19,7 @@ p {
 img {
   width: 400px;
   height: 400px;
+}
+#darkRed {
+  color: #31081f;
 }
