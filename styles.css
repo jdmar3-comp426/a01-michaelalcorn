@@ -1,0 +1,46 @@
+h1 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #31081f;
+}
+h1.page2 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #631a43;
+}
+h1.page3 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #6e3053;
+}
+h1.page4 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #a35883;
+}
+a {
+  color: #6b0f1a;
+  font-family: "Lucida Console", "Courier New", monospace;
+  border-style: solid;
+  background-color: #dce0d9;
+}
+a.highlight:hover {
+  color: #808f85;
+}
+p {
+  color: #595959;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#darkRed {
+  color: #31081f;
+}
+p.powers {
+  color: #d80d0d;
+}
+div img {
+  width: 800px;
+  height: 400px;
+}
+ul li {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
